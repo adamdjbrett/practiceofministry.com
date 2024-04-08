@@ -1,0 +1,9 @@
+{
+    "homepage":  "https://ministryasaspiritualpractice.org",
+    "homepage1": "https://practiceofministry.com ",
+    "homepage2": "https://practiceofministry.org",
+    "homepage3": "https://parentingasaspiritualpractice.org",
+    "scripts": {
+      "shorten": "netlify-shortener"
+    }
+  }
